@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marieluisehahn*
+	name = Marie-Luise Hahn
